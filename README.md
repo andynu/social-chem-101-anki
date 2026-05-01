@@ -8,6 +8,8 @@ moral situations.
 Each card shows a rule of thumb on the front and reveals the situation,
 action, judgment, moral score (−2 to +2), legality, and category on the back.
 
+**👉 [Download the latest `.apkg`](https://github.com/andynu/social-chem-101-anki/releases/latest)** and import it into Anki via *File → Import*.
+
 > [!NOTE]
 > The deck is a study aid derived from the dataset published with the EMNLP 2020
 > paper [Social Chemistry 101: Learning to Reason about Social and Moral
