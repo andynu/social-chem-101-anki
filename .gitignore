@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.ruff_cache/
+
+# Source dataset (download separately — see README)
+social-chem-101/
+social-chem-101.zip
+
+# Built deck (large; distribute as a release asset)
+social-chem-101.apkg

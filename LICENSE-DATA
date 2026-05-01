@@ -1,0 +1,35 @@
+Dataset and Anki deck license
+=============================
+
+The Social-Chem-101 dataset is distributed by its authors under the
+Creative Commons Attribution-ShareAlike 4.0 International license
+(CC BY-SA 4.0):
+
+    https://creativecommons.org/licenses/by-sa/4.0/
+
+The Anki deck produced by `build_deck.py` (`social-chem-101.apkg`) is a
+derivative work of the dataset and is therefore also distributed under
+CC BY-SA 4.0.
+
+Attribution
+-----------
+
+If you redistribute the deck or the dataset, you must:
+
+1. Credit the original authors:
+
+       Maxwell Forbes, Jena D. Hwang, Vered Shwartz, Maarten Sap, Yejin Choi.
+       "Social Chemistry 101: Learning to Reason about Social and Moral Norms."
+       EMNLP 2020. https://arxiv.org/abs/2011.00620
+
+2. Indicate that changes were made (this repo filters and reshapes RoTs
+   into Anki notes — it does not modify the source text of any RoT).
+
+3. License your derivative under the same CC BY-SA 4.0 terms.
+
+Upstream sources
+----------------
+
+- Project page: https://maxwellforbes.com/social-chemistry/
+- Dataset / code: https://github.com/mbforbes/social-chemistry-101
+- Paper: https://arxiv.org/abs/2011.00620
